@@ -3,7 +3,7 @@
   "description": "A Natural Language Processor in JS",
   "homepage": "https://github.com/agnito/meteor-knwl.git",
   "author": "Dan Rubins",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "git": "https://github.com/agnito/meteor-knwl.git",
   "packages": {}
 }

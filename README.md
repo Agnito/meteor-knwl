@@ -51,6 +51,6 @@ var datesFound = hal.get("dates");
 *Please note that Knwl.js is still in early development, and can yield varying results.*
 
 
-###Licence
+###License
 Meteor package under [MIT License](LICENSE). © by [Agnito Labs, Inc](http://www.agnitolabs.com).
 Knwl.js package under [MIT License](LICENSE). © Load Five.
